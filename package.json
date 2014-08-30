@@ -1,0 +1,11 @@
+{
+  "name": "qs",
+  "version": "0.0.0",
+  "description": "Qt selection tool",
+  "main": "qs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Carr <sirspudd@gmail.com>",
+  "license": "MIT"
+}
