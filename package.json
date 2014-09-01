@@ -1,8 +1,8 @@
 {
-  "name": "qs",
+  "name": "qts",
   "version": "0.0.0",
   "description": "Qt selection tool",
-  "main": "qs.js",
+  "main": "qts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
